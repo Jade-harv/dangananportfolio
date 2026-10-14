@@ -1,0 +1,117 @@
+PORTFOLIO FACTS TEMPLATE
+
+PROFILE
+Full name: Jade Harvey R. Danganan
+Professional title or area of study: Bachelor of Science in Computer Science undergraduate student
+Short introduction: Jade is an undergraduate computer science student with a strong focus on software engineering, data structures, and responsive web development. They enjoy building custom, interactive applications and exploring foundational computing concepts.
+General location: Bacoor, Cavite, Philippines
+Professional interests: Software development, mobile application development, algorithms and data structures, computer networking, cybersecurity, UI/UX design, and database systems
+Last updated: 2026-10-15
+
+PUBLIC CONTACT INFORMATION
+Professional email: Not provided
+LinkedIn: Not provided
+GitHub or other professional profile: Not provided
+Portfolio URL: http://127.0.0.1:5500/index.html
+
+
+Preferred contact method: Not provided
+EDUCATION
+School or institution: Saint Vincent De Paul College
+Degree, course, or strand: Junior High School
+Dates: 2018 – 2022
+Status: Completed
+Relevant achievements: None listed
+
+School or institution: AMA Computer Learning Center
+Degree, course, or strand: Senior High School
+Dates: 2022 – 2024
+Status: Completed
+Relevant achievements: None listed
+
+School or institution: Not provided
+Degree, course, or strand: Bachelor of Science in Computer Science
+Dates: 2024 – Present (Expected completion date not specified)
+Status: Enrolled
+Relevant achievements: None listed
+
+EXPERIENCE
+Role: Student Developer
+Organization: Academic Projects
+Type: Academic project work
+Dates: 2024 – Present
+Responsibilities: Developed Java data structures including singly linked lists, binary search trees, min-heaps, max-heaps, and adjacency list graphs. Designed responsive single-file portfolio websites using HTML, CSS, and JavaScript. Configured networking labs with Cisco IOS and calculated Variable Length Subnet Masking.
+Results: Successfully implemented functional academic code models and responsive web prototypes.
+Tools used: Java, HTML, CSS, JavaScript, Cisco IOS, Figma
+
+PROJECT
+Project name: Personal Portfolio Website
+Context: Personal project
+Date or period: September 2026
+Status: Deployed / Completed
+Purpose: To showcase personal educational background, skill sets, and project portfolio using a clean, responsive layout.
+Personal contribution: Designed and coded the complete single-file HTML, embedded CSS, and vanilla JavaScript interface featuring mobile navigation and interactive modal views.
+Main features: Responsive mobile navigation, education timeline, interactive project showcase, and skill matrix.
+Technologies: HTML, CSS, JavaScript
+Outcome or recognition: Successfully created and verified locally via live server.
+Public demo: http://127.0.0.1:5500/index.html
+
+
+Public source code: Not publicly available
+Limitations: Local development link only
+PROJECT
+Project name: Library Book Catalog & Emergency Room Priority Queue
+Context: Class project
+Date or period: October 2025
+Status: Completed
+Purpose: To manage book catalog items utilizing Binary Search Trees and prioritize emergency room patients utilizing Min-Heap priority queues.
+Personal contribution: Authored and debugged the source code files (Firstname_Lastname_MidtermBST.java and Firstname_Lastname_MidtermHeap.java).
+Main features: BST traversals and Min-Heap priority queue operations.
+Technologies: Java
+Outcome or recognition: Successfully completed mid-term academic requirements.
+Public demo: Not publicly available
+Public source code: Not publicly available
+Limitations: Academic source code files
+
+SKILLS
+Programming languages: Java, JavaScript
+Frameworks and libraries: Vanilla JavaScript DOM manipulation
+Databases and platforms: Android Studio, Cisco IOS, Relational Databases (SQL)
+Design and productivity tools: Figma
+Other skills: Object-oriented programming, data structures (BST, Heaps, Graphs), variable length subnet masking (VLSM), UI/UX wireframing, database normalization (1NF to 3NF)
+Currently learning: Advanced Android mobile development (Kotlin/Java lifecycle), network routing protocols (OSPF, BGP), and information security frameworks
+
+TRAINING, CERTIFICATIONS, AND AWARDS
+Title: Not provided
+Issuer or organizer: Not provided
+Date: Not provided
+Type: Not provided
+Verification URL: Not provided
+Expiry or status: Not applicable
+
+LEADERSHIP AND COMMUNITY
+Organization: Not provided
+Role: Not provided
+Dates: Not provided
+Contribution: Not provided
+
+AVAILABILITY AND SERVICES — OPTIONAL
+Services offered: Not confirmed
+Availability: Contact owner to confirm
+Published rates: Contact owner for a quote
+Booking process: Contact owner directly
+
+FREQUENTLY ASKED QUESTIONS
+Question: What is Jade's current course of study?
+Approved answer: Jade is currently pursuing a Bachelor of Science in Computer Science, having started the degree program in 2024.
+Question: What programming languages and technologies does Jade use?
+Approved answer: Jade actively works with Java, JavaScript, HTML, CSS, Android development tools, and database management systems.
+
+UNKNOWN OR UNCONFIRMED DETAILS
+Exact graduation date for the Computer Science degree
+Public contact email, LinkedIn, and GitHub links
+Published rates or formal service offerings
+SOURCE NOTES
+
+Generated using established profile context and verified academic project details.
+
